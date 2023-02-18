@@ -2,7 +2,7 @@ import requests
 import datetime
 from aiogram import Bot, types, Dispatcher, executor
 
-bot = Bot(token='6124830178:AAGTNB6F-o4gOhvq9-rro930F5dRKDQem3A')
+bot = Bot(token='TOKEN')
 dp = Dispatcher(bot)
 
 
